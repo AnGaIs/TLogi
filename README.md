@@ -1,0 +1,8 @@
+TLogi
+=========
+
+Sistema de Gerenciamento de Transportadora
+
+- SISTEMA PARA LOGÍSTICA DE DISTRIBUIÇÃO 
+
+- APLICAÇÃO DE ALGORÍTMOS DE TRANSPORTE NA CADEIA DE SUPRIMENTOS 
